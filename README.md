@@ -1,2 +1,2 @@
 # Photo-Gallery
-Photo galary for kekebox 8th anniversary edition page
+Photo gallery for kekebox 8th anniversary edition page
